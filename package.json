@@ -1,0 +1,25 @@
+{
+  "name": "more-storage",
+  "version": "0.1.0",
+  "description": "A library that expose more storage method that implements the Storage Interface so that you can easily replace the locale & session storage in your application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/E-Jacques/more-storage.git"
+  },
+  "keywords": [
+    "storage",
+    "memory",
+    "crud",
+    "api"
+  ],
+  "author": "E-Jacques",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/E-Jacques/more-storage/issues"
+  },
+  "homepage": "https://github.com/E-Jacques/more-storage#readme"
+}
